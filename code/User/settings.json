@@ -14,7 +14,7 @@
   "dart.previewFlutterUiGuides": true,
   "dart.previewFlutterUiGuidesCustomTracking": true,
   "tabnine.experimentalAutoImports": true,
-  "editor.wordWrap": "on",
+  "editor.wordWrap": "wordWrapColumn",
   "workbench.editor.labelFormat": "short",
   "explorer.compactFolders": false,
   "editor.guides.bracketPairs": true,
@@ -147,7 +147,7 @@
   "doki.sticker.css": "display: none !important;",
   "doki.background.anchor": "display: none !important;",
   "doki.wallpaper.enabled": false,
-  "update.mode": "default",
+  "update.mode": "manual",
 
   // ui custom css
   "apc.electron": {
@@ -211,6 +211,7 @@
   "apc.imports": [
     "file:///c:/Users/Admin/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
   ],
+
   "animations.CursorAnimation": false,
   "editor.smoothScrolling": true,
   "catppuccin-icons.hidesExplorerArrows": true,
@@ -221,5 +222,6 @@
   "workbench.preferredHighContrastColorTheme": "Catppuccin Frappé",
   "terminal.integrated.gpuAcceleration": "on",
   "terminal.integrated.letterSpacing": 1,
-  "terminal.integrated.lineHeight": 1.5
+  "terminal.integrated.lineHeight": 1.5,
+  "editor.stickyScroll.enabled": false
 }
