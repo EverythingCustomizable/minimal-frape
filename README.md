@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project!
-![textlogo](https://github.com/user-attachments/assets/4ed039f0-e656-415f-a122-200c8cd1b0fc)
+![textlogo](https://github.com/user-attachments/assets/e96c835b-4558-4ca1-b964-c82d91270689)
 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
