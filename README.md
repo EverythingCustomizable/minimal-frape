@@ -83,7 +83,7 @@ This project showcases the ability to customize Visual Studio Code (VS Code) set
 2. Import css
 
 - Copy my "custom ui section" in settings.json file to the last line of your settings.json
-- About customizing the welcome screen. After you install all the extensions, open the Command Palette and select Animations: Open the Custom CSS and paste all the Custom-Animations.css there
+- About customizing the welcome screen. After you install all the extensions, open the Command Palette and select "Animations: Open the Custom CSS" and paste all the Custom-Animations.css there
 
 ![alt text](image.png)
 
