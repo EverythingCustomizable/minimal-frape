@@ -82,12 +82,19 @@ This project showcases the ability to customize Visual Studio Code (VS Code) set
 
 2. Import css
 
-- Copy the My "custom ui section" of the settings.json file into the last line of your settings.json
-- About customizing the welcome screen. After you install all the extensions open Command Palette and choose Animations: Open custom CSS and paste all the Custom-Animations.css into it
+- Copy my "custom ui section" in settings.json file to the last line of your settings.json
+- About customizing the welcome screen. After you install all the extensions, open the Command Palette and select Animations: Open the Custom CSS and paste all the Custom-Animations.css there
 
 ![alt text](image.png)
 
-After all restart your vscode
+- You can customize the welcome screen to your liking with this website:
+  <a href="https://convertio.co/png-svg/"> PNG to SVG Converter</a> and open the svg with any text editor, copy all the content in it paste here
+  <a href="https://bloggerpilot.com/en/tools/svg-to-css/"> SVG to CSS Converter</a>
+  , Copy CSS Background and change the "background-image:..." in the Custom-Animations.css.
+
+Note that images are displayed in black and white only
+
+After all, restart your vscode
 
 <!-- USAGE EXAMPLES -->
 
