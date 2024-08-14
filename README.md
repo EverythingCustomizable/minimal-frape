@@ -60,9 +60,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Project!
+![textlogo](https://github.com/user-attachments/assets/e96c835b-4558-4ca1-b964-c82d91270689)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project showcases the customization of my Visual Studio Code (VS Code) setup, tailored to improve my productivity and make my coding environment more personal and efficient. By modifying themes, extensions, keybindings, and settings
 
