@@ -13,13 +13,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="200" height="100">
+    <img src="images/logo.png" alt="Logo" width="260" height="150">
   </a>
 
   <h3 align="center">minimal-frapé</h3>
 
   <p align="center">
-    A clean and minimalistic user interface for your vscode
+    A clean and minimalistic user interface for your vscod with catpputccin frapé theme
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
