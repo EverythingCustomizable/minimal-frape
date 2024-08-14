@@ -64,7 +64,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project showcases the customization of my Visual Studio Code (VS Code) setup, tailored to improve my productivity and make my coding environment more personal and efficient. By modifying themes, extensions, keybindings, and settings
 
 Here's why:
 
