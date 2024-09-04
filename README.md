@@ -110,7 +110,7 @@ If you like it, feel free to use it, it's customizable
 
 Ryuu43 - [@Ryuu43Dev](https://x.com/Ryuu43Dev) - <ryuu43.dev@gmail.com>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/EverythingCustomizable/minimal-frape)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
